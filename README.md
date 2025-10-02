@@ -72,10 +72,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=SYSTEM%20READY%20•%20LETS%20CODE&fontSize=28&fontAlignY=70&animation=twinkling" width="100%"/>
 
-</div>
-
-<div align="center">
-
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00FFFF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://richiemaja.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richie-m-50b542294/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Richiemaja04)
