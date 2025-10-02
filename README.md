@@ -10,17 +10,6 @@
 
 ### 🎮 PLAYER STATS • LEVEL 42 DEV
 
-```javascript
-const richie = {
-    role: "AI Engineer & Full-Stack Developer",
-    location: "Bangalore, India 🇮🇳",
-    timezone: "UTC+5:30 ⏰",
-    status: "🟢 ONLINE | Building Tomorrow's Tech",
-    expertise: ["Artificial Intelligence", "Machine Learning", "Computer Vision", "NLP"],
-    mission: "Code | Create | Innovate | Repeat ♾️"
-};
-```
-
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -67,12 +56,6 @@ const richie = {
 ### 👁️ EAR Drowsiness Detection
 **⭐ Stars: 3** | **🔥 Status: Active**
 
-```python
-mission = "Save Lives"
-tech = ["Computer Vision", "OpenCV", "ML"]
-impact = "Real-time driver safety"
-```
-
 🎯 Real-time drowsiness monitoring system  
 🚨 Visual & audio alerts  
 🧠 Eye movement tracking AI
@@ -84,12 +67,6 @@ impact = "Real-time driver safety"
 
 ### 📄 AI Resume Optimizer
 **⭐ Stars: 2** | **🔥 Status: Active**
-
-```python
-mission = "Career Enhancement"
-tech = ["NLP", "AI", "Python"]
-impact = "Job seeker success"
-```
 
 🤖 AI-powered resume tailoring  
 📊 NLP analysis & optimization  
@@ -106,12 +83,6 @@ impact = "Job seeker success"
 ### 🌍 Text-to-Text Translator
 **⭐ Stars: 1** | **🔥 Status: Active**
 
-```python
-mission = "Break Language Barriers"
-tech = ["MarianMT", "Hugging Face"]
-languages = 5
-```
-
 🔄 Real-time translation  
 🌐 Multi-language support  
 ⚡ Instant processing
@@ -123,12 +94,6 @@ languages = 5
 
 ### 🏥 AI Medical Assistant
 **⭐ Stars: 1** | **🔥 Status: Active**
-
-```python
-mission = "Healthcare Innovation"
-tech = ["AI", "Authentication", "Flask"]
-features = ["Reminders", "Profiles"]
-```
 
 💊 Medication tracking  
 📅 Appointment management  
@@ -145,12 +110,6 @@ features = ["Reminders", "Profiles"]
 ### 🎤 ASR Speech Translator
 **⭐ Stars: 1** | **🔥 Status: Active**
 
-```python
-mission = "Voice to World"
-tech = ["Vosk", "ASR", "MS Translator"]
-realtime = True
-```
-
 🎙️ Real-time speech recognition  
 🌏 Multi-language translation  
 ⚡ Instant transcription
@@ -162,12 +121,6 @@ realtime = True
 
 ### 💰 Billing System
 **⭐ Stars: 1** | **🔥 Status: Active**
-
-```python
-mission = "Business Automation"
-tech = ["Flask", "SQLite", "Web"]
-management = ["Bills", "Income"]
-```
 
 📊 Customer bill management  
 💵 Income tracking  
@@ -210,15 +163,6 @@ management = ["Bills", "Income"]
   <img src="https://github-profile-trophy.vercel.app/?username=Richiemaja04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </p>
 
-### 💻 CODING TIME DISTRIBUTION
-
-<!--START_SECTION:waka-->
-```text
-Python       ████████████████████░░░░░   78.5%
-JavaScript   ████░░░░░░░░░░░░░░░░░░░░░   12.3%
-HTML/CSS     ██░░░░░░░░░░░░░░░░░░░░░░░    5.8%
-Other        █░░░░░░░░░░░░░░░░░░░░░░░░    3.4%
-```
 <!--END_SECTION:waka-->
 
 </div>
@@ -250,40 +194,6 @@ Other        █░░░░░░░░░░░░░░░░░░░░░�
 
 ---
 
-## 🚀 CURRENT QUEST • MISSION STATUS
-
-<div align="center">
-
-```diff
-+ 🎯 Mastering Advanced Deep Learning Architectures
-+ 🔬 Exploring Transformer Models & LLMs
-+ 🌟 Building Production-Ready AI Applications
-+ 💡 Contributing to Open Source AI Projects
-+ 📚 Continuous Learning & Innovation
-```
-
-### 🎓 SKILL TREE PROGRESSION
-
-```mermaid
-graph LR
-    A[Core Python] --> B[Data Science]
-    A --> C[Web Development]
-    B --> D[Machine Learning]
-    B --> E[Deep Learning]
-    D --> F[Computer Vision]
-    D --> G[NLP]
-    E --> F
-    E --> G
-    C --> H[Flask/FastAPI]
-    H --> I[Full Stack Apps]
-    F --> J[AI Solutions]
-    G --> J
-    style A fill:#00FFFF
-    style J fill:#FF00FF
-```
-
-</div>
-
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284175-3a1139cf-0f88-44f9-bb3f-49b96ac25d48.gif" width="100%">
@@ -299,57 +209,15 @@ graph LR
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Richiemaja04)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-### 💬 STATUS: READY TO COLLABORATE
-
-```python
-def connect():
-    print("🚀 Let's build something amazing together!")
-    print("💡 Open to: Collaborations | Projects | Opportunities")
-    print("⚡ Response Time: Lightning Fast ⚡")
-    return "🤝 Always happy to connect!"
-```
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Richiemaja04&color=00FFFF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Richiemaja04)
-
-</div>
-
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 💭 DEVELOPER PHILOSOPHY
-
-<div align="center">
-
-> ### *"Code is poetry written in logic, and AI is the future being written today."*
-
-```javascript
-while (alive) {
-    eat();
-    sleep();
-    code();
-    innovate();
-    repeat();
-}
-```
-
-### 🎯 CORE VALUES
-
-**🔥 Innovation First** • **💪 Never Stop Learning** • **🤝 Collaboration Matters** • **⚡ Quality Over Quantity**
 
 </div>
 
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
-
-## 🎁 RANDOM DEV JOKE • EASTER EGG
-
-<div align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-
-</div>
 
 ---
 
