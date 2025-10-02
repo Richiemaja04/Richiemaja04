@@ -45,95 +45,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## 🏆 LEGENDARY PROJECTS • BOSS BATTLES CONQUERED
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 👁️ EAR Drowsiness Detection
-**⭐ Stars: 3** | **🔥 Status: Active**
-
-🎯 Real-time drowsiness monitoring system  
-🚨 Visual & audio alerts  
-🧠 Eye movement tracking AI
-
-[![View](https://img.shields.io/badge/View_Project-00FF00?style=for-the-badge&logo=github)](https://github.com/Richiemaja04/EAR-Drowsiness-Detection)
-
-</td>
-<td width="50%">
-
-### 📄 AI Resume Optimizer
-**⭐ Stars: 2** | **🔥 Status: Active**
-
-🤖 AI-powered resume tailoring  
-📊 NLP analysis & optimization  
-🎯 Role-specific customization
-
-[![View](https://img.shields.io/badge/View_Project-FF00FF?style=for-the-badge&logo=github)](https://github.com/Richiemaja04/AI-Resume-Optimizer)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🌍 Text-to-Text Translator
-**⭐ Stars: 1** | **🔥 Status: Active**
-
-🔄 Real-time translation  
-🌐 Multi-language support  
-⚡ Instant processing
-
-[![View](https://img.shields.io/badge/View_Project-00FFFF?style=for-the-badge&logo=github)](https://github.com/Richiemaja04/Text-to-Text-Translator)
-
-</td>
-<td width="50%">
-
-### 🏥 AI Medical Assistant
-**⭐ Stars: 1** | **🔥 Status: Active**
-
-💊 Medication tracking  
-📅 Appointment management  
-🔐 Secure user profiles
-
-[![View](https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=github)](https://github.com/Richiemaja04/AI-Medical-Assistant)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🎤 ASR Speech Translator
-**⭐ Stars: 1** | **🔥 Status: Active**
-
-🎙️ Real-time speech recognition  
-🌏 Multi-language translation  
-⚡ Instant transcription
-
-[![View](https://img.shields.io/badge/View_Project-FFD700?style=for-the-badge&logo=github)](https://github.com/Richiemaja04/ASR-Speech-to-text-Translator)
-
-</td>
-<td width="50%">
-
-### 💰 Billing System
-**⭐ Stars: 1** | **🔥 Status: Active**
-
-📊 Customer bill management  
-💵 Income tracking  
-📈 Expense recording
-
-[![View](https://img.shields.io/badge/View_Project-4169E1?style=for-the-badge&logo=github)](https://github.com/Richiemaja04/Billing-System)
-
-</td>
-</tr>
-</table>
-
-</div>
-
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
@@ -153,14 +64,11 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Richiemaja04&theme=tokyonight&hide_border=true&background=0D1117&ring=FF00FF&fire=FF6B00&currStreakLabel=00FFFF)](https://git.io/streak-stats)
 
-### 📈 ACTIVITY GRAPH • NEURAL NETWORK VISUALIZATION
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Richiemaja04&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FFFF&line=FF00FF&point=00FF00)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 🏆 ACHIEVEMENTS UNLOCKED
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Richiemaja04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Richiemaja04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=8" />
 </p>
 
 <!--END_SECTION:waka-->
@@ -170,27 +78,6 @@
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
-
-## 🌟 SPECIAL ABILITIES • CORE EXPERTISE
-
-<div align="center">
-
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   🤖 ARTIFICIAL INTELLIGENCE      ████████████████░░  85%    ║
-║   👁️ COMPUTER VISION             ███████████████░░░  80%    ║
-║   🧠 MACHINE LEARNING             ████████████████░░  85%    ║
-║   💬 NATURAL LANGUAGE PROCESSING  ███████████████░░░  78%    ║
-║   🌐 WEB DEVELOPMENT              ██████████████░░░░  75%    ║
-║   🗄️ DATABASE MANAGEMENT          █████████████░░░░░  70%    ║
-║   🔧 API DEVELOPMENT              ████████████████░░  82%    ║
-║   ☁️ CLOUD & DEPLOYMENT           ██████████░░░░░░░░  60%    ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-</div>
 
 ---
 
