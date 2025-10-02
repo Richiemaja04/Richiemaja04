@@ -77,13 +77,6 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
-
----
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284175-3a1139cf-0f88-44f9-bb3f-49b96ac25d48.gif" width="100%">
 
 ## 🌐 CONNECT TO THE NETWORK • JOIN THE PARTY
 
@@ -98,13 +91,9 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 </div>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 ---
 
@@ -124,13 +113,7 @@
 
 <div align="center">
 
-### ⚡ *"Building the future, one commit at a time"* ⚡
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=SYSTEM%20READY%20•%20LETS%20CODE&fontSize=28&fontAlignY=70&animation=twinkling" width="100%"/>
-
-**🎮 GAME OVER? NO. GAME ON! 🎮**
-
-[![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-FF00FF?style=for-the-badge)](https://github.com/Richiemaja04)
-[![Powered by Coffee](https://img.shields.io/badge/Powered%20by-☕_Coffee-00FFFF?style=for-the-badge)](https://github.com/Richiemaja04)
 
 </div>
