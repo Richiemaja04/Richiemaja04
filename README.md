@@ -6,15 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=🚀+Building+the+Future+with+AI+%26+Python;💡+Transforming+Ideas+into+Intelligent+Solutions;🎯+Bangalore+•+Pro+Developer+•+Tech+Innovator)](https://git.io/typing-svg)
 
----
-
-### 🎮 PLAYER STATS • LEVEL 42 DEV
-
----
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🎯 COMBAT SKILLS • TECH ARSENAL
 
 <div align="center">
 
@@ -41,15 +33,10 @@
 
 </div>
 
----
-
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
----
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
-## 📊 BATTLEFIELD ANALYTICS • REAL-TIME METRICS
 
 <div align="center">
 
@@ -60,7 +47,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richiemaja04&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF"/>
 </a>
 
-### 🔥 CONTRIBUTION STREAK • NEVER STOP CODING
+### 🔥 CONTRIBUTION STREAK
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Richiemaja04&theme=tokyonight&hide_border=true&background=0D1117&ring=FF00FF&fire=FF6B00&currStreakLabel=00FFFF)](https://git.io/streak-stats)
 
@@ -71,49 +58,20 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Richiemaja04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=8" />
 </p>
 
-<!--END_SECTION:waka-->
-
 </div>
 
----
-
-
-## 🌐 CONNECT TO THE NETWORK • JOIN THE PARTY
 
 <div align="center">
 
-### 📡 COMMUNICATION CHANNELS
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=SYSTEM%20READY%20•%20LETS%20CODE&fontSize=28&fontAlignY=70&animation=twinkling" width="100%"/>
+
+</div>
+
+<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00FFFF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://richiemaja.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richie-m-50b542294/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Richiemaja04)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
----
-
-</div>
-
----
-
----
-
-## 🐍 WATCH THE SNAKE EAT MY CONTRIBUTIONS
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Richiemaja04/Richiemaja04/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Richiemaja04/Richiemaja04/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Richiemaja04/Richiemaja04/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=SYSTEM%20READY%20•%20LETS%20CODE&fontSize=28&fontAlignY=70&animation=twinkling" width="100%"/>
 
 </div>
