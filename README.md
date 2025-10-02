@@ -1,8 +1,6 @@
 <div align="center">
-
-# ⚡ RICHIE M | SYSTEM OVERRIDE ⚡
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=NEURAL%20ARCHITECT&fontSize=42&fontAlignY=32&desc=AI%20•%20Python%20•%20Innovation&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=RICHIE%20M&fontSize=42&fontAlignY=32&desc=AI%20•%20Python%20•%20UI/UX%20•%20Innovation&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=🚀+Building+the+Future+with+AI+%26+Python;💡+Transforming+Ideas+into+Intelligent+Solutions;🎯+Bangalore+•+Pro+Developer+•+Tech+Innovator)](https://git.io/typing-svg)
 
